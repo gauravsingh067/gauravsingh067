@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gauravsingh067
+- 👋 Hi, I’m @TeraByte
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning python and data analyst
 - 💞️ I’m looking to collaborate on ...
